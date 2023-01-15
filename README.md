@@ -41,7 +41,7 @@
 ![Usuarios](https://user-images.githubusercontent.com/98921788/212570514-84bdad2c-aa54-47c4-8a89-09592c98481b.png)
 ![StatusCode](https://user-images.githubusercontent.com/98921788/212570519-a963f113-0103-4f9a-b12e-e1d450f47de9.png)
 ![RandomDog](https://user-images.githubusercontent.com/98921788/212570523-350e432c-d59a-4b10-b6e7-a8bf10cbc5f9.png)
-![CustomerList](https://user-images.githubusercontent.com/98921788/212570528-b7f10f7f-8b6d-40be-9532-48cedc7b3211.png)
+![CustomerList](https://user-images.githubusercontent.com/98921788/212573642-8bb114fd-29d4-4b89-a5ed-bc6c494e334b.png)
 ![Cadastro](https://user-images.githubusercontent.com/98921788/212570536-86609c95-e718-4078-b35a-00ea123f1efa.png)
 ![EditarModal](https://user-images.githubusercontent.com/98921788/212570540-4179e99b-b326-4bc3-87ab-909faf513249.png)
   
