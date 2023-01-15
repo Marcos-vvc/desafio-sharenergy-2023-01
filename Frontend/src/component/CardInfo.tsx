@@ -80,7 +80,7 @@ const CardInfo = (props: Customers) => {
     return (
         <div>
             {modal === false ? null : <Modal setModal={setModal} customer={props.customer} />}
-            <Card className="m-auto mt-4" sx={{ maxWidth: 1 / 2, bgcolor: 'primary.main' }}>
+            <Card className="m-auto mt-4" sx={{ maxWidth: 1 / 2}}>
                 <CardContent>
                     <Typography variant="h6">
                         <div key={props.customer.id}>
