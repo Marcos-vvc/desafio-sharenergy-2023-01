@@ -91,33 +91,19 @@ Yarn
 ```
 
 -   Iniciar a aplicação web com o comando
-<<<<<<< HEAD
+
 
 ```bash
 yarn run start
 ```
-  
+
+
 <a id="-video"></a>
   
 # :desktop_computer: Link para o video
   
   [Video](https://youtu.be/4fVc3jWVY2w)
   
-
-  <a href="#-voltar-ao-topo"> Topo </a>
-=======
-
-```bash
-yarn run start
-```
-  
-<a id="-video"></a>
-  
-# :desktop_computer: Link para o video
-  
-  [Video](https://youtu.be/4fVc3jWVY2w)
-  
-
   <a href="#-voltar-ao-topo"> Topo </a>
   
   
@@ -127,4 +113,4 @@ yarn run start
   
 
 
->>>>>>> 3896cba46145c37414bef0b5408159272aed3e24
+
